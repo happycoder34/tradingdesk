@@ -1,0 +1,3 @@
+[console_scripts]
+tradingagents = cli.main:app
+tradingagents-dashboard = dashboard.streamlit_app:main
